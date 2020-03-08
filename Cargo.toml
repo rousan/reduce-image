@@ -1,0 +1,8 @@
+[package]
+name = "reduce-image"
+publish = false
+version = "0.1.0"
+authors = ["Rousan Ali <rousanali786@gmail.com>"]
+edition = "2018"
+
+[dependencies]
